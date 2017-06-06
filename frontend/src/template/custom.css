@@ -1,0 +1,16 @@
+.btn {
+    margin-right: 5px;
+}
+
+.hasDone {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.todoActions {
+    width: 105px;
+}
+
+.todoForm {
+    margin-bottom: 50px;
+}
